@@ -11,7 +11,7 @@ Requires [NodeJS](https://nodejs.org) to be installed on your system.
 
 #3. Open the project folder in your terminal (command prompt)
 
-#4. Insert your token in `index.js`
+#4. Insert your Telegram Bot API-token in [`index.js`](https://github.com/poeti8/simple-reddit-bot/blob/master/index.js#L3)
 
 #5. Install dependencies `npm install`
 
